@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+ul {
+    text-align: center;
+    font-size: 2em;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    margin: 10px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1B1938;
+    border: 1px solid #1B1938;
+    border-radius: 15px;
+}
+
+.part-one {
+    width: 50%;
+    margin-top: 100px;
+    margin: 10px;
+}
+
+.part-one p {
+    text-align: justify;
+}
+
+.part-two img {
+    padding: 20px;
+    margin-left: 50px;
+}
+
+span {
+    color: #5F347B;
+}
